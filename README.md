@@ -1,0 +1,2 @@
+# Improved-detection-of-fraud-cases-for-e-commerce-and-bank-transactions
+This project focuses on developing robust and accurate fraud detection models for both e-commerce and credit card transactions. Using real-world datasets from online purchases and bank payments, the solution leverages feature engineering, geolocation analysis, and advanced machine learning techniques to identify fraudulent activities. 
