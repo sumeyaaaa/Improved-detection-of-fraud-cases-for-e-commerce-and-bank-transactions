@@ -49,12 +49,8 @@ The analysis uses three primary datasets:
   - **Summary plots** to visualize global feature importance.
   - **Force plots** to explain individual fraud predictions.
 - Key insights: time-based features and anonymized PCA components (in credit data) drive fraud classification.
-
-## 🔄 Planned Work
-
-- **Complete SHAP Explainability:** Finish and interpret plots for both models.
-- **Final Reporting:** Prepare README, blog post, and interim/final reports.
-- **Optional Deployment:** Expose model using Flask or Dash for inference API.
+- **SHAP Explainability:** Generated and interpreted SHAP summary and force plots for both E-commerce and Credit Card fraud models.
+- **Final Reporting:** README, Final Report, and visual analyses are prepared and documented.
 
 
 
